@@ -1,5 +1,7 @@
 # Breast Cancer Diagnostic System
 
+Intern ID: CITS426
+
 ## Project Overview
 This project predicts whether a breast tumor is malignant or benign using machine learning techniques.
 
